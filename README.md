@@ -1,11 +1,10 @@
 # Django weather app
 Simple Django weather app.
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
 You should register on https://www.weatherapi.com/ and put your API Key in .env file.
 
 Cloning a repository:
+
 ```git clone https://github.com/shestakovitch/Django_weather_app.git```
 
 Creating virtual environment:
