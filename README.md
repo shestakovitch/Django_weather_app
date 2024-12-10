@@ -1,7 +1,7 @@
 # Django weather app
 Simple Django weather app.
 
-You should register on https://www.weatherapi.com/ and put your API Key in .env file.
+## Installation
 
 Cloning a repository:
 
@@ -20,7 +20,12 @@ Installing the required packages from requirements.txt﻿:
 
 ```pip3 install -r requirements.txt```
 
+You should register on https://www.weatherapi.com/
 
+Create ".env" file and put API Key on it
+
+
+## Description
 
 You can add and remove cities using the corresponding buttons
 <img width="1440" alt="Screen Shot 2024-12-09 at 4 42 57 PM" src="https://github.com/user-attachments/assets/64612821-e250-4c68-862f-d00b8d4d79fb">
