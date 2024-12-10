@@ -22,7 +22,7 @@ Installing the required packages from requirements.txt﻿:
 
 You should register on https://www.weatherapi.com/
 
-Create ".env" file and put API Key on it
+Create ".env" file or rename ".env.example" and put API Key on it
 
 
 ## Description
